@@ -1,0 +1,57 @@
+Skill,Skill_Lower,Alternative,Count
+SQL,sql,,410
+Hadoop,hadoop,,268
+Python,python,,554
+Machine Learning,machine learning,ML,492
+Spark,spark,,199
+R,r,,574
+C,c,C++,195
+NoSQL,nosql,,84
+Hive,hive,,135
+SAS,sas,,240
+MapReduce,mapreduce,,51
+Java,java,,238
+Pig,pig,,80
+D3,d3,,24
+Data Structures,data structures,,41
+Algorithms,algorithms,,377
+ggplot,ggplot,,16
+AWS,aws,,69
+Azure,azure,,22
+Statistics,statistics,Statistical,608
+Unstructured,unstructured,,143
+NLP,nlp,Natural Language Processing,46
+Distributed computing,distributed computing,,41
+Matlab,matlab,,128
+Data mining,data mining,,254
+Big Data,big data,,278
+Regression,regression,,137
+TensorFlow,tensorflow,,30
+Deep Learning,deep learning,,64
+Visualization,visualization,,223
+Excel,excel,,110
+Communication,communication,communicate,316
+.Net,.net,,0
+Business Intelligence,business intelligence,BI,78
+MySQL,mysql,,38
+LaTex,latex,,0
+Unix,unix,,46
+Linux,linux,,67
+Artifical Intelligence,artifical intelligence,,1
+Time Series,time series,,71
+Optimization,optimization,,145
+Classification,classification,,113
+Clustering,clustering,,99
+Unsupervised,unsupervised,,41
+Supervised,supervised,,42
+ETL,etl,,59
+Tableau,tableau,,127
+Microsoft Office,microsoft office,,16
+Story,story,,38
+OLAP,olap,,4
+Problem Solving,problem solving,,113
+Hbase,hbase,,46
+Perl,perl,,57
+Amazon S3,amazon s3,,0
+Scala,scala,,111
+MongoDB,mongodb,,33
